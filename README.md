@@ -6,5 +6,6 @@ A collection of awesome readme files for github profiles. We are curently workin
   - config.json
   - your-name.png
   - your-name.md
+2. Name of the folder can be your first name and last name concatinated.
   
-Make sure you replace your-name with lowercase, concatination of your first name and last name.
+`Note: Make sure you replace your-name with lowercase, concatination of your first name and last name.`
