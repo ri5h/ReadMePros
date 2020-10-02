@@ -4,7 +4,7 @@ A collection of awesome readme files for github profiles. We are curently workin
 # How to Contribute
 1. Create a pull request that adds a folder with these files:
   - config.json
-  - <your-name>.png
-  - <your-name>.md
+  - your-name.png
+  - your-name.md
   
-Make sure you replace <your-name> with lowercase, concatination of your first name and last name.
+Make sure you replace your-name with lowercase, concatination of your first name and last name.
